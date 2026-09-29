@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm [KIMBERLY FERNANDA HERNANDEZ] 👋
 
-<!--
-**kimberly-hernandez-h/kimberly-hernandez-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an HR technician moving into cybersecurity. I'm studying for the Cisco CCST certification and I want to specialize in cyber threat management.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Cybersecurity fundamentals (Cisco CCST)
+- Cyber threat management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My background
+- Human Resources: people, processes and compliance
+- Logistics: organization and process management
+
+## Contact
+- LinkedIn: [www.linkedin.com/in/hernández-kimberly]

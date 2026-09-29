@@ -1,4 +1,4 @@
-# Hi, I'm [KIMBERLY FERNANDA HERNANDEZ] 👋
+# Hi, I'm KIMBERLY FERNANDA HERNANDEZ 👋
 
 I'm an HR technician moving into cybersecurity. I'm studying for the Cisco CCST certification and I want to specialize in cyber threat management.
 
@@ -11,4 +11,4 @@ I'm an HR technician moving into cybersecurity. I'm studying for the Cisco CCST 
 - Logistics: organization and process management
 
 ## Contact
-- LinkedIn: [www.linkedin.com/in/hernández-kimberly]
+- LinkedIn: www.linkedin.com/in/hernández-kimberly
